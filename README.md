@@ -171,7 +171,7 @@ Take and include the following screenshots:
 
 | # | What to Screenshot | When to Take It | 
 
-|---|---|---|
+
 | 1 | **Home screen** — app loaded with QR code visible | Before connecting wallet |
 <img width="748" height="460" alt="Before connecting wallet" src="https://github.com/user-attachments/assets/cf5ef8f6-4483-4c5b-b61c-595118765ed0" />
 
