@@ -174,16 +174,20 @@ Take and include the following screenshots:
 |---|---|---|
 | 1 | **Home screen** — app loaded with QR code visible | Before connecting wallet |
 <img width="748" height="460" alt="Before connecting wallet" src="https://github.com/user-attachments/assets/cf5ef8f6-4483-4c5b-b61c-595118765ed0" />
-| 2 | **Freighter connect popup** — the extension asking for permission | After clicking "Connect Freighter Wallet" |
-<img width="937" height="485" alt="connection request" src="https://github.com/user-attachments/assets/26bf516f-0ca2-458b-80a7-315045be7d8b" />
 
-| 3 | **Connected dashboard** — showing wallet address, balance, tip buttons + custom input | After wallet is connected |<img width="689" height="466" alt="After wallet is connected" src="https://github.com/user-attachments/assets/9581ca9a-83d4-4b7c-a5f0-ba7ea288f307" />
+| 2 | **Freighter connect popup** — the extension asking for permission | After clicking "Connect Freighter Wallet" |
+<img width="937" height="485" alt="connection request" src="https://github.com/user-attachments/assets/72b1e06b-d960-4082-acdd-86b17320fe37" />
+
+
+| 3 | **Connected dashboard** — showing wallet address, balance, tip buttons + custom input | After wallet is connected |<img width="689" height="466" alt="After wallet is connected" src="https://github.com/user-attachments/assets/ffc6372a-3c98-4689-8d72-44b7b180cebe" />
 
 
 | 4 | **Freighter sign popup** — asking to approve the transaction | After clicking Send |
-<img width="912" height="503" alt="Freighter connect popup " src="https://github.com/user-attachments/assets/aeb29695-81a6-4959-a1ee-a8e77c84f5da" />
+<img width="818" height="484" alt="the transactionAfter clicking Send" src="https://github.com/user-attachments/assets/ab405526-c116-4a0a-b167-0629d35e739f" />
 
-| 5 | **Success message** — green status box with transaction hash | After transaction is confirmed |<img width="637" height="427" alt="After transaction is confirmed" src="https://github.com/user-attachments/assets/bdfbc2fd-ed43-4aba-b857-4346f739c075" />
+
+| 5 | **Success message** — green status box with transaction hash | After transaction is confirmed |<img width="637" height="427" alt="After transaction is confirmed" src="https://github.com/user-attachments/assets/3a6bae53-04e2-48ae-a9de-ea7a14fdcc1e" />
+
 
 | 6 | **Stellar Explorer page** — the transaction detail page | Open the "View on Stellar Explorer" link |<img width="899" height="409" alt="the transaction detail page" src="https://github.com/user-attachments/assets/e7868794-f488-46ba-97b1-d79984c09ca7" />
 
