@@ -169,7 +169,8 @@ Always pass the second argument as an object with the full network passphrase.
 
 Take and include the following screenshots:
 
-| # | What to Screenshot | When to Take It |
+| # | What to Screenshot | When to Take It | <img width="748" height="460" alt="Before connecting wallet" src="https://github.com/user-attachments/assets/cf5ef8f6-4483-4c5b-b61c-595118765ed0" />
+
 |---|---|---|
 | 1 | **Home screen** — app loaded with QR code visible | Before connecting wallet |
 | 2 | **Freighter connect popup** — the extension asking for permission | After clicking "Connect Freighter Wallet" |
