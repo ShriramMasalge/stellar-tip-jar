@@ -165,11 +165,7 @@ Always pass the second argument as an object with the full network passphrase.
 
 ---
 
-## 📸 Screenshots to Include in Submission
-
-Take and include the following screenshots:
-
-| # | What to Screenshot | When to Take It | 
+## 📸 Screenshots
 
 
 | 1 | **Home screen** — app loaded with QR code visible | Before connecting wallet |
@@ -191,10 +187,6 @@ Take and include the following screenshots:
 
 | 6 | **Stellar Explorer page** — the transaction detail page | Open the "View on Stellar Explorer" link |<img width="899" height="409" alt="the transaction detail page" src="https://github.com/user-attachments/assets/e7868794-f488-46ba-97b1-d79984c09ca7" />
 
-
-
-> 💡 Tip: Use your browser's built-in screenshot tool or press `Windows + Shift + S` (Windows) / `Cmd + Shift + 4` (Mac)
-
 ---
 
 ## 🌐 Useful Links
@@ -214,6 +206,3 @@ Take and include the following screenshots:
 
 ---
 
-## 👤 Author
-
-Made with ☕ and React.
