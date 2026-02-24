@@ -169,15 +169,25 @@ Always pass the second argument as an object with the full network passphrase.
 
 Take and include the following screenshots:
 
-| # | What to Screenshot | When to Take It | <img width="748" height="460" alt="Before connecting wallet" src="https://github.com/user-attachments/assets/cf5ef8f6-4483-4c5b-b61c-595118765ed0" />
+| # | What to Screenshot | When to Take It | 
 
 |---|---|---|
 | 1 | **Home screen** — app loaded with QR code visible | Before connecting wallet |
+<img width="748" height="460" alt="Before connecting wallet" src="https://github.com/user-attachments/assets/cf5ef8f6-4483-4c5b-b61c-595118765ed0" />
 | 2 | **Freighter connect popup** — the extension asking for permission | After clicking "Connect Freighter Wallet" |
-| 3 | **Connected dashboard** — showing wallet address, balance, tip buttons + custom input | After wallet is connected |
+<img width="937" height="485" alt="connection request" src="https://github.com/user-attachments/assets/26bf516f-0ca2-458b-80a7-315045be7d8b" />
+
+| 3 | **Connected dashboard** — showing wallet address, balance, tip buttons + custom input | After wallet is connected |<img width="689" height="466" alt="After wallet is connected" src="https://github.com/user-attachments/assets/9581ca9a-83d4-4b7c-a5f0-ba7ea288f307" />
+
+
 | 4 | **Freighter sign popup** — asking to approve the transaction | After clicking Send |
-| 5 | **Success message** — green status box with transaction hash | After transaction is confirmed |
-| 6 | **Stellar Explorer page** — the transaction detail page | Open the "View on Stellar Explorer" link |
+<img width="912" height="503" alt="Freighter connect popup " src="https://github.com/user-attachments/assets/aeb29695-81a6-4959-a1ee-a8e77c84f5da" />
+
+| 5 | **Success message** — green status box with transaction hash | After transaction is confirmed |<img width="637" height="427" alt="After transaction is confirmed" src="https://github.com/user-attachments/assets/bdfbc2fd-ed43-4aba-b857-4346f739c075" />
+
+| 6 | **Stellar Explorer page** — the transaction detail page | Open the "View on Stellar Explorer" link |<img width="899" height="409" alt="the transaction detail page" src="https://github.com/user-attachments/assets/e7868794-f488-46ba-97b1-d79984c09ca7" />
+
+
 
 > 💡 Tip: Use your browser's built-in screenshot tool or press `Windows + Shift + S` (Windows) / `Cmd + Shift + 4` (Mac)
 
