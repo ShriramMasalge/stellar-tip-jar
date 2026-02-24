@@ -5,12 +5,6 @@ Users can connect their Freighter wallet and send XLM tips directly — no middl
 
 ---
 
-## 🚀 Live Demo
-
-> Run locally using the steps below. No hosted deployment required for submission.
-
----
-
 ## 🛠️ Tech Stack
 
 | Technology | Purpose |
